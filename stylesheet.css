@@ -200,7 +200,7 @@ nav li{
     text-decoration: none;  
 }
 .project-card img{
-    height: 50%;
+    height: 48%;
     border-radius: 5px 5px 0 0;
 }
 .project-card:hover {
@@ -215,7 +215,7 @@ nav li{
     margin-bottom: 3vw;
     width: 20%;
     min-width: 20em;
-    height: 35em;
+    height: 32em;
   
 }
 .project-caption {
